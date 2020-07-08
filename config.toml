@@ -1,5 +1,5 @@
 BaseURL = "https://blog.chrisstayte.com/"
-theme = "casper-two"
+theme = "cib-base"
 languageCode    = "en-US"
 disqusShortname = "blog-chrisstayte"
 paginate        = 6
