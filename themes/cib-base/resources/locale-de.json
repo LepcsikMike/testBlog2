@@ -1,0 +1,108 @@
+{
+	"en": "English",
+	"de": "Deutsch",
+	"page": "CIB doXisign: Schnell und einfach Dokumente digital unterschreiben!",
+	"menu": {
+		"CIBdoXisign": "CIB doXisign",
+		"Vorteile": "Vorteile",
+		"Funktionen": "Funktionen",
+		"Signaturlösung": "Signaturlösung"
+	},
+
+	"header": {
+        "Titel": "Schnell und einfach Dokumente digital unterschreiben!",
+        "Text": "Mit der digitalen Signatur jetzt medienbruchfrei und ohne Installation Verträgen und Vereinbarungen online abschliessen.",
+        "TextPunkte1": " ",
+        "TextPunkte2": " ",
+        "TextPunkte3": " ",
+        "TextPunkte4": " ",
+        "TextPunkte5": " DSGVO konform für den sicheren Dokumentenaustausch"
+    },
+
+	"Button": {
+		"CTA1": "Anfragen",
+		"CTA2": "Mehr erfahren",
+		"CTA2-gray": "zu CIB doXiview",
+		"CTA3": "jetzt testen",
+		"CTA3-gray": "Anfragen",
+		"Senden": "Senden"
+	},
+	"AvailableLanguage": {
+		"Title": "CIB pdf brewer gibt es in folgenden Sprachen"
+	},
+
+	"Vorteile": {
+		"Title": "Das bietet CIB doXisign",
+		"Heading1": "Intuitiv Dokumente digital signieren",
+		"Heading2": "Drei verschiedene Methoden, um Signaturen zu erstellen",
+		"Heading3": "Einfache Bedienung"
+	},
+
+	"Features": {
+		"HeaderTitle": "Ihre Vorteile mit CIB doXisign",
+		"Title1": "Sie sparen Geld!",
+		"Text1": "Weniger Zeit Ihrer kostbaren Mitarbeiter und ein niedriger Materialeinsatz sind erforderlich",
+		"Title2": "Beschleunigen Sie Ihre Prozesse!",
+		"Text2": "Viele Prozesse können so taggleich abgeschlossen werden, zumTeil sogar nach wenigen Minuten.",
+		"Title3": "Kinderleichte Bedienung!",
+		"Text3": "Die Handhabung der digitalen Signaturlösung ist einfach gehalten und erfordert keine Installation einer App beim Unterzeichner."
+	},
+
+	"Steps": {
+		"HeaderTitle": "So funktioniert es",
+		"Step1": "Der Unterzeichner",
+		"StepText1": "Der Unterzeichner ruft das Dokumentauf, das er signieren will",
+		"Step2": "Das Signaturfeld",
+		"StepText2": "Er klickt auf das Signaturfeld",
+		"Step3": "Authentifizierung",
+		"StepText3": "Jetzt muss sich der Unterzeichnerje nach rechtlicher Anforderungauthentifizieren",
+		"Step4": "Optionen",
+		"StepText4": "Danach hat der Unterzeichner die Wahl, wie er signieren will",
+		"StepText4ListA": "Mit einem Zertifikat",
+		"StepText4ListB": "Mit der Maus oder auf dem touch-fähigen Display des Gerätes",
+		"StepText4ListC": "Per Texteingabe seines Namens",
+		"StepText4ListD": "Mit einem Bild der handschriftlichen Unterschrift, die er hoch lädt",
+		"StepText4ListE": "Auf einem mobilen Endgerät über einen QR-Code"
+	},
+
+	"Kunden": {
+		"Title": "Diese Unternehmen profitieren bereits von CIB doXisign"
+	},
+
+	"Signaturlösung": {
+		"Title": "Signaturlösung CIB doXisign jetzt mit CIB doXiview ergänzen!",
+		"TitleSub": "Mit der browserbasierten Dokumentenanzeige CIB doXiview integrieren Sie die <br> Signaturlösung nahtlos in Ihre Fachanwendungen. Arbeiten Sie produktiver- jetzt!"
+	},
+
+	"CTA": {
+		"Title": "Möchten Sie mehr erfahren?",
+		"TitleSub": "Wir beraten Sie gern",
+		"ListTitle": "Individuelle Wahlmöglichkeiten für einen optimalen Signaturprozess",
+		"List1": "Sie wählen, ob Ihre Fachanwendung mit einer einfachen oder eine fortgeschrittenen elektronischen Signatur ausgestattet wird.",
+		"List2": "Für die fortgeschrittene Signatur können Sie zusätzliche Parameter definieren, wie den Namen als Klartext oder die Parameter wie E-Mail-Adresse oder Mobilfunknummer.",
+		"List3": "Wenn konfiguriert, wird ein Audit-Trail mit der Zusammenfassung des Signaturprozesses erzeugt und kann gespeichert oder archiviert werden.",
+		"List4": "Wiederholtes Signieren lässt sich beschleunigen und vereinfachen, indem die Unterschrift des authentifizierten Anwenders in CIB doXisign für weitere Signaturprozesse gespeichert wird."
+	},
+	
+	"Footer": {
+		"HomepageLink": "https://www.cib.de/de/startseite.html",
+		"PrivacyLink": "https://www.cib.de/de/datenschutz.html",
+		"ImprintLink": "https://www.cib.de/de/impressum.html",
+		"Consultation": "Beratung und Bestellung",
+		"Installation": "Installation & Drittseiten",
+		"RelatedProducts": "Weitere CIB Lösungen",
+		"Legal": "Rechtliche Informationen",
+		"AGB": "AGB",
+		"Nutzungsbedingungen": "Nutzungsbedingungen",
+		"Widerrufserklärung": "Widerrufserklärung",
+		"Datenschutz": "Datenschutz",
+		"Impressum": "Impressum",
+        "Weblösungen": "CIB Weblösungen",
+        "WeitereLösungen": "Weitere CIB Lösungen",
+        "Unternehmen": "Unternehmen",
+        "InfoBeratung": "Info & Beratung"
+	},
+
+	"AGBs": "https://www.doxisafe.me/#/safe/retrieve/brewer3agb",
+	"InstallationGuide": "Installationsanleitung"
+}

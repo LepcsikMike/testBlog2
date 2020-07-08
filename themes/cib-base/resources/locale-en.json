@@ -1,0 +1,90 @@
+{
+	"en": "English",
+	"de": "Deutsch",
+	"page": "CIB pdf brewer: create, edit and compress PDF for free",
+	"menu": {
+		"Vorteile": "Advantages",
+		"Versionen": "Versions",
+		"Am-Beispiel": "Use cases",
+		"Funktionen": "Features",
+		"News": "News",
+		"Bestellen": "Order now"
+	},
+
+	"header": {
+        "Titel": "La plataforma de comunicación digital continua con sus clientes",
+        "Text": "Nie wieder Briefe ausdrucken und kuvertieren: Mit CIB fairBrieft verschicken Sie sicher einzelne Briefe, Serienbriefe oder auch Hybridpost - umweltschonend und lokal.",
+        "TextPunkte1": "Ya no tendrá que solicitar más documentos telefónicamente",
+        "TextPunkte2": "Podrá dedicar más tiempo a sus actividades de asesoramiento",
+        "TextPunkte3": "Con un diseño personalizado para su despacho",
+        "TextPunkte4": "Destaque entre su competencia gracias a una atención al cliente individualizada",
+        "TextPunkte5": "Cumple con el RGPD para un intercambio de documentos seguro"
+	},
+
+	"Button": {
+		"CTA1": "Order now",
+		"CTA2": "Go to CIB doXiview",
+		"CTA2-gray": "Showcase",
+		"Senden": "Send"
+	},
+
+	"AvailableLanguage": {
+		"Title": "CIB pdf brewer is available in the following languages"
+	},
+
+	"Vorteile": {
+		"Title": "Das bietet CIB doXisign",
+		"Heading1": "Intuitiv Dokumente digital signieren",
+		"Heading2": "Drei verschiedene Methoden, um Signaturen zu erstellen",
+		"Heading3": "Einfache Bedienung"
+	},
+
+	"Features": {
+		"HeaderTitle": "Ihre Vorteile mit CIB doXisign",
+		"Title1": "Sie sparen Geld!",
+		"Text1": "Weniger Zeit Ihrer kostbaren Mitarbeiter und ein niedriger Materialeinsatz sind erforderlich",
+		"Title2": "Beschleunigen Sie Ihre Prozesse!",
+		"Text2": "Viele Prozesse können so taggleich abgeschlossen werden, zumTeil sogar nach wenigen Minuten.",
+		"Title3": "Kinderleichte Bedienung!",
+		"Text3": "Die Handhabung der digitalen Signaturlösung ist einfach gehalten und erfordert keine Installation einer App beim Unterzeichner."
+	},
+
+	"Steps": {
+		"HeaderTitle": "So funktioniert es",
+		"Step1": "Der Unterzeichner",
+		"StepText1": "Der Unterzeichner ruft das Dokumentauf, das er signieren will",
+		"Step2": "Das Signaturfeld",
+		"StepText2": "Er klickt auf das Signaturfeld",
+		"Step3": "Authentifizierung",
+		"StepText3": "Jetzt muss sich der Unterzeichnerje nach rechtlicher Anforderungauthentifizieren",
+		"Step4": "Optionen",
+		"StepText4": "Danach hat der Unterzeichner die Wahl, wie er signieren will",
+		"StepText4ListA": "Mit einem Zertifikat",
+		"StepText4ListB": "Mit der Maus oder auf dem touch-fähigen Display des Gerätes",
+		"StepText4ListC": "Per Texteingabe seines Namens",
+		"StepText4ListD": "Mit einem Bild der handschriftlichen Unterschrift, die er hoch lädt",
+		"StepText4ListE": "Auf einem mobilen Endgerät über einen QR-Code"
+	},
+	
+	"Footer": {
+		"HomepageLink": "https://www.cib.de/en/home.html",
+		"PrivacyLink": "https://www.cib.de/en/privacy-policy.html",
+		"ImprintLink": "https://www.cib.de/en/imprint.html",
+		"Consultation": "Consultation and order",
+		"Installation": "Installation & third party sites",
+		"RelatedProducts": "Related products",
+		"Legal": "Legal information",
+		"AGB": "General terms and conditions",
+		"Nutzungsbedingungen": "End user licence agreement",
+		"Widerrufserklärung": "Cancellation policy",
+		"Datenschutz": "Privacy policy",
+		"Impressum": "Imprint",
+        "Weblösungen": "CIB web solutions",
+        "WeitereLösungen": "Other CIB solutions",
+        "Unternehmen": "Company",
+        "InfoBeratung": "Info & advice"
+	},
+
+	"AGBs": "https://www.doxisafe.me/#/safe/retrieve/cib-conditions",
+	"InstallationGuide": "Installation guide"
+}
